@@ -1,4 +1,4 @@
-    .env
-    __pycache__/
-    venv/
-    weather_cache.json
+.env
+__pycache__/
+venv/
+weather_cache.json
